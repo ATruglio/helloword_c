@@ -1,1 +1,2 @@
 # helloworld_c
+# operazioni
